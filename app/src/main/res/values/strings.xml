@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Horoscope</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <!--BottonBar-->
+
+    <string name="horoscope">Horoscope</string>
+    <string name="palmistry">Palmistry</string>
+    <string name="luck">Luck</string>
+
+    <!--Horoscepe-->
+    <string name="aries">Aries</string>
+    <string name="taurus">Taurus</string>
+    <string name="gemini">Gemini</string>
+    <string name="cancer">Cancer</string>
+    <string name="leo">Leo</string>
+    <string name="virgo">Virgo</string>
+    <string name="libra">Libre</string>
+    <string name="scorpio">Scorpio</string>
+    <string name="sagitarius">Sagitarius</string>
+    <string name="capricorn">Capricorn</string>
+    <string name="aquarius">Aquarius</string>
+    <string name="picses">Picses</string>
+
+
+</resources>
